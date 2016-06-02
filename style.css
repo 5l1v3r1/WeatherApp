@@ -1,0 +1,17 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,900italic';
+
+body{
+    background-color: #2e6da4;
+}
+
+h1 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+}
+
+h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
